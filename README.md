@@ -30,7 +30,7 @@ toca apenas um instrumento, pois depende de sua função na sinfonia.
 ● Foi pedido para adicionar o atributo grupo em instrumento, mas depois pediram para retira-lo
 
 
-##############################################################################################################
+########################################################################################################
 
 modelo entitade relacionamento (MER) :
 
@@ -44,7 +44,7 @@ modelo relacional (MR) :
 
 
 
-####################################################################################
+################################################################################
 
                                 RELATORIOS PEDIDOS
                                
@@ -89,6 +89,6 @@ modelo relacional (MR) :
 20 # Liste sinfonias que foram apresentatas no ano de 2023 e se a nacionalidade do musico for brasileira o campo deve conter sim, caso contrario nao
 
 
-##############################################################################################################################
+############################################################################################################
 
 
