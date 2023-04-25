@@ -30,7 +30,7 @@ toca apenas um instrumento, pois depende de sua função na sinfonia.
 ● Foi pedido para adicionar o atributo grupo em instrumento, mas depois pediram para retira-lo
 
 
-#################################################################################################################################
+##############################################################################################################
 
 modelo entitade relacionamento (MER) :
 
@@ -44,9 +44,9 @@ modelo relacional (MR) :
 
 
 
-##################################################################################################################
+####################################################################################
 
-                               <b> RELATORIOS PEDIDOS</B>
+                                RELATORIOS PEDIDOS
                                
 1 # Nome do musico e sua referente orquestra, caso nao haja musico na orquestra o campo fica vazio
 
