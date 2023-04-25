@@ -89,6 +89,6 @@ modelo relacional (MR) :
 20 # Liste sinfonias que foram apresentatas no ano de 2023 e se a nacionalidade do musico for brasileira o campo deve conter sim, caso contrario nao
 
 
-############################################################################################################
+###########################################################################################################
 
 
