@@ -169,7 +169,7 @@ INSERT INTO `EscoladeMusicaSilasCando`.`Sinfonia` (`Nome`, `Compositor`, `Dt_cri
 
 
 INSERT INTO `EscoladeMusicaSilasCando`.`Funcao` 
-(`IdFruncao`, `Nome`, `Musico_idMusico`)
+(`IdFuncao`, `Nome`, `Musico_idMusico`)
 VALUES 
 (1, 'Violino I', 1),
 (2, 'Violino II', 2),
@@ -224,7 +224,7 @@ VALUES
 (50, 'Clarinetista', 10);
 
 INSERT INTO `EscoladeMusicaSilasCando`.`Funcao` 
-(`IdFruncao`, `Nome`, `Musico_idMusico`)
+(`IdFuncao`, `Nome`, `Musico_idMusico`)
 VALUES 
 (65, 'Regente', 1),
 (52, 'Solista', 2),
